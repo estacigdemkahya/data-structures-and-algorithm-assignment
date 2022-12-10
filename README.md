@@ -5,7 +5,7 @@
 
 # Project-patika
 
-'[patika.dev](https://app.patika.dev/aekisa)'
+'[patika.dev](https://app.patika.dev/estacigdem)'
 
 www.patika.dev
 
