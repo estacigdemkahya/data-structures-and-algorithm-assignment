@@ -3,7 +3,7 @@
 ## Merge Sort Project 
 ## Binary Search Tree Project
 
-# Project-patika
+
 
 '[patika.dev](https://app.patika.dev/estacigdem)'
 
