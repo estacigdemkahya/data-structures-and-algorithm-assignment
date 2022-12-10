@@ -1,0 +1,20 @@
+--> [16,21,11,8,12,22] -> Birleştirme Sıralaması
+
+
+Adım 1: Diziyi iki eşit parçaya bölün ve her parçayı ayrı ayrı sıralayın.
+[16,21,11] -> [8,12,22]
+
+Adım 2: Sol taraf için -> Sağ taraf için
+[16] [21,11] -> [8,12] [22]
+
+Adım 3: Sol taraf için -> Sağ taraf için
+[16] [21][11] -> [8][12] [22]
+Adım 4: Sıralı parçaları birleştirin.
+[16] [11,21] -> [8,12] [22]
+Adım 5: Sıralı parçaları birleştirin.
+[11,16,21] -> [8,12,22]
+Adım 6: Sıralı parçaları birleştirin.
+[8,11,12,16,21,22]
+
+
+--> Bu algoritmanın Big-O temsili O(n log n)'dir çünkü dizinin bölünmesi ve birleştirilmesi her bir öğe için logaritmik bir zaman alır.
