@@ -4,7 +4,6 @@
 ## Binary Search Tree Project
 
 
-
 '[patika.dev](https://app.patika.dev/estacigdem)'
 
 www.patika.dev
