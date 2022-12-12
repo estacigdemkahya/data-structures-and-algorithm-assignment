@@ -1,6 +1,6 @@
 --> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] İkili Arama Ağacı
 
--> Kök 3 ise,
+-Kök 3 ise,
 
 
                     3
@@ -11,23 +11,23 @@
                        / \ \
                       4 6 9
                    
-  -> Adım 1: '7', '3'ten büyük olduğu için '3'ün sağına yerleştirilir.
+  Adım 1: '7', '3'ten büyük olduğu için '3'ün sağına yerleştirilir.
  
-  --> Adım 2: '5', '3'ten büyük olduğu için '3'ün sağına ve '7'den küçük olduğu için '7'nin soluna yerleştirilir.
+  Adım 2: '5', '3'ten büyük olduğu için '3'ün sağına ve '7'den küçük olduğu için '7'nin soluna yerleştirilir.
  
-  --> Adım 3: '1', '3'ten küçük olduğu için '3'ün soluna yerleştirilir.
+  Adım 3: '1', '3'ten küçük olduğu için '3'ün soluna yerleştirilir.
  
-  --> Adım 4: '8', '3'ten büyük olduğu için '3'ün sağına ve '7'den büyük olduğu için '7'nin sağına yerleştirilir.
+  Adım 4: '8', '3'ten büyük olduğu için '3'ün sağına ve '7'den büyük olduğu için '7'nin sağına yerleştirilir.
  
-  --> Adım 5: '6', '3'ten büyük olduğu için '3'ün sağına, '7'den küçük olduğu için '7'nin soluna ve 'nin sağına yerleştirilir. 5' çünkü öyle
+  Adım 5: '6', '3'ten büyük olduğu için '3'ün sağına, '7'den küçük olduğu için '7'nin soluna ve 'nin sağına yerleştirilir. 5' çünkü öyle
   '5'ten büyük.
  
-  -> Adım 6: '0', '3'ten küçük olduğu için '3'ün soluna, '1'den küçük olduğu için '1'in soluna yerleştirilir.
+  Adım 6: '0', '3'ten küçük olduğu için '3'ün soluna, '1'den küçük olduğu için '1'in soluna yerleştirilir.
  
-  -> Adım 7: '9', '3'ten büyük olduğu için '3'ün sağına, '7'den büyük olduğu için '7'nin sağına ve ' 8' çünkü öyle
+  Adım 7: '9', '3'ten büyük olduğu için '3'ün sağına, '7'den büyük olduğu için '7'nin sağına ve ' 8' çünkü öyle
   '8'den büyük.
  
-  -> Adım 8: '4', '3'ten büyük olduğu için '3'ün sağına, '7'den küçük olduğu için '7'nin soluna ve 'nin soluna yerleştirilir. 5' çünkü öyle
+  Adım 8: '4', '3'ten büyük olduğu için '3'ün sağına, '7'den küçük olduğu için '7'nin soluna ve 'nin soluna yerleştirilir. 5' çünkü öyle
   '5'ten az.
  
-  --> Adım 9: '2', '3'ten küçük olduğu için '3'ün soluna, '1'den büyük olduğu için '1'in sağına yerleştirilir.
+  Adım 9: '2', '3'ten küçük olduğu için '3'ün soluna, '1'den büyük olduğu için '1'in sağına yerleştirilir.
