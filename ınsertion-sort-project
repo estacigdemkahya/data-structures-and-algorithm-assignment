@@ -11,11 +11,7 @@ Ekleme sıralaması için Big-O notasyonu O(n^2) şeklindedir.
 --> Dizi sıralandıktan sonra 18 sayısı dizinin ortasında olduğu için ortalama olacaktır.
 Bu nedenle: Ortalama vaka kapsanmaktadır.
 
-
-
-
 --> [7,3,5,8,2,9,4,15,6] Seçim Sıralamasına göre dizinin ilk 4 adımını yazınız.
-
 
 Adım 1: Dizideki en küçük eleman olan 2, dizinin başına taşınır.
 Dizi şu şekilde güncellenir: [2,3,5,8,7,9,4,15,6]
