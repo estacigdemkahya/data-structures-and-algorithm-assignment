@@ -1,6 +1,4 @@
 <!--Bu kod alanı aktif olarak kullanılmamaktadır-->
-
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -14,8 +12,7 @@
     <title>Medium Clone</title>
   </head>
   <body>
-    
-   <div style="background-color: #ffc017; border-bottom: 1px solid #414141;">
+    <div style="background-color: #ffc017; border-bottom: 1px solid #414141;">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="container-fluid">
@@ -24,9 +21,7 @@
             </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-              </button>
-    
-              
+              </button>          
               <!--Sadec ml-auto sağa yaslamak için işe yaramdı ilk class'a 'justif-content-end'ekleyip 2.class'a mr-auto ekleyerek bu sorunu çözdüm-->
               <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav mr-auto">
@@ -47,16 +42,12 @@
                   <li class="nav-item">
                     <a class="nav-link btn btn-dark text-light" href="#">Get Started</a>
                   </li>
-    
-    
-    
                 </ul>
               </div>
             </div>
           </nav>
     </div>
    </div>
-
    <div class="container">
    <div class="">
     <div class="row">
